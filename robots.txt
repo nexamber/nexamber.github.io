@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nexamber.github.io/sitemap
+Sitemap: https://nexamber.github.io/app/sitemap
+Sitemap: https://nexamber.github.io/assets/sitemap
+Sitemap: https://nexamber.github.io/css/sitemap
+Sitemap: https://nexamber.github.io/includes/sitemap
+Sitemap: https://nexamber.github.io/item/sitemap
+Sitemap: https://nexamber.github.io/src/sitemap
